@@ -18,7 +18,9 @@ Infine scrivi sulla pagina nomecognomecolorepreferito21_**
 **1.Chiedo al utente il suo nome tramite prompt**
 **2.Chiedo al utente il suo cognome tramite prompt**
 **3.Chiedo al utente il suo colore preferito tramite prompt**
-**4.Stampo sulla pagina HTML la password composta da _nomecognomecolorepreferito21_**
+**4.Aggiungo la costante con il numero 21**
+**5.Inserisco una costante stringa con al suo interno nome,cognome,colore preferito ed il numero 21**
+**6.Stampo sulla pagina HTML la password composta da _nomecognomecolorepreferito21_**
 
 ---
 ###Output 
