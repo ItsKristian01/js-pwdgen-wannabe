@@ -15,9 +15,9 @@ Infine scrivi sulla pagina nomecognomecolorepreferito21_**
 
 ---
 ###Logica del programma
-**1.Chiedo al utente il suo nome tramite propt**
-**2.Chiedo al utente il suo cognome tramite propt**
-**3.Chiedo al utente il suo colore preferito tramite propt**
+**1.Chiedo al utente il suo nome tramite prompt**
+**2.Chiedo al utente il suo cognome tramite prompt**
+**3.Chiedo al utente il suo colore preferito tramite prompt**
 **4.Stampo sulla pagina HTML la password composta da _nomecognomecolorepreferito21_**
 
 ---
