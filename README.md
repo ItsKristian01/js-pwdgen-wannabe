@@ -1,4 +1,7 @@
+### ITALIANO
+
 ### ESERCIZIO: Password Generator
+
 ---
 ### **CONSEGNA:**
 **_Chiedi all’utente il suo nome,_**
@@ -26,8 +29,43 @@
 ### Output 
 **Stampo nel HTML** nomecognomecolorepreferito21
 
+### ENGLISH
 
+### EXERCISE: Password Generator
 
+---
+
+### **DELIVERY:**
+
+**_Ask the user for his name,_**
+**_then ask his last name,_**
+**_then ask his favorite color_**
+**_Finally write on the page namesurnamepreferredcolour21_**
+
+---
+
+### **Data collection**
+
+**1. Ask the user for his name._**
+**_2. Ask the user for his surname_**
+**3. Ask the user his favorite color_**
+**4. Write on the page namesurnamepreferredcolour21_**
+
+---
+
+### Program logic
+
+**1.I ask the user for his name via prompt**
+**2.I ask the user for his last name via prompt**
+**3.I ask the user his favorite color via prompt**
+**4.I add the constant with the number 21**
+**5.I insert a string constant with name, surname, favorite color and the number 21 inside**
+**6.I print the password composed of _namesurnamepreferredcolour21_ on the HTML page**
+
+---
+### Output
+
+**I print in HTML** namesurnamepreferredcolor21
 
 
 
